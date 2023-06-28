@@ -1,6 +1,5 @@
-# Hello-word
-1 репозитрий
-Тимур 23 года,астана
-#H1
-##3
-####### My life
+# hello-word
+I love my life
+my name is Timur
+23 yars
+I am live sity in a Astana
